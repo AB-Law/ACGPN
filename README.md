@@ -1,7 +1,3 @@
-# Inference using colab
-[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
-
-[![Open In Colab][colab-badge]](https://colab.research.google.com/github/levindabhi/ACGPN/blob/master/ACGPN_and_SieveNet.ipynb)
 
 # Original README
 
