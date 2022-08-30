@@ -25,11 +25,7 @@ We rearrange the VITON dataset for easy access.
 ![image](https://github.com/switchablenorms/DeepFashion_Try_On/blob/master/images/criterion.png)
 
 We use the pose map to calculate the difficulty level of try-on. The key motivation behind this is the more complex the occlusions and layouts are in the clothing area, the harder it will be. And the formula is given,
-## The formula to compute the difficulty of try-onreference image
 
-![image](https://github.com/switchablenorms/DeepFashion_Try_On/blob/master/images/formula.png)
-
-where t is a certain key point, Mp' is the set of key point we take into consideration, and N is the size of the set. 
 ## Segmentation Label
 ```bash
 0 -> Background
